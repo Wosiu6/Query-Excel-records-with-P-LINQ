@@ -1,0 +1,8 @@
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\bin\Debug\netstandard2.0\DTOs.deps.json
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\bin\Debug\netstandard2.0\DTOs.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\bin\Debug\netstandard2.0\DTOs.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\obj\Debug\netstandard2.0\DTOs.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\obj\Debug\netstandard2.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\obj\Debug\netstandard2.0\DTOs.AssemblyInfo.cs
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\obj\Debug\netstandard2.0\DTOs.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\DTOs\obj\Debug\netstandard2.0\DTOs.pdb

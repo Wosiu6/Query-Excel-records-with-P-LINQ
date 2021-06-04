@@ -1,0 +1,15 @@
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.MainWindow.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.Properties.Resources.resources
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.csproj.GenerateResource.cache
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\DTOs.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\DTOs.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\CustomExtensions.dll
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\bin\Debug\CustomExtensions.pdb
+C:\Users\wospa\OneDrive - Staffordshire University\YEAR 2\TBSE\Assignment\SearchEngine\obj\Debug\SearchEngine.Loading.resources
